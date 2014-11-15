@@ -1,0 +1,8 @@
+eac3to v3.27
+command line: C:\Tools\dts2wmapro\tools\eac3to\eac3to.exe  C:\tmp_dts2wma\audioclip.dtshd C:\tmp_dts2wma\audioclip.dts
+------------------------------------------------------------------------------
+DTS Master Audio, 5.1 channels, 16 bits, 48kHz
+(core: DTS, 5.1 channels, 16 bits, 1509kbps, 48kHz)
+Creating file "C:\tmp_dts2wma\audioclip.dts"...
+eac3to processing took 9 seconds.
+Done.
